@@ -18,11 +18,11 @@ By XiaoZhi
 - DLL 版本
 - Forge-Mod 版本
 ### 注意事项：
-1. 使用本项目请不要动网易任何有关函数Init、函数Test的基址，如"yv*****"、"nativeTra****"等
+1. 使用本项目请调整你的内存防封，请不要动网易任何有关函数Init、函数Test的基址，如"yv*****"、"nativeTra****"等
 2. 使用Forge-Mod 版本需要绕过网易client_pcyc_check
 3. 请使用各个版本特有的authlib
 
-## 喜欢这个项目加个星标不过分吧QWQ  核心代码：
+## 核心代码：
 
 ![核心代码](img/code.jpg "Code")
 ### 想说的话：
@@ -33,6 +33,8 @@ QQ：909045783
 微信：xiaozhisoc
 
 ![附上我的照片，我家猫猫CoCo被迫营业哈哈哈哈](img/xiaozhi.jpg "XiaoZhi")
+
+小声bb：喜欢这个项目加个星标不过分吧
 
 
 
