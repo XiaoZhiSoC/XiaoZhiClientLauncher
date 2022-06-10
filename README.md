@@ -1,6 +1,9 @@
 # XiaoZhi ClientLauncher (XZCL Project)
-## XiaoZhi ClientLauncher Version 5
-## By XiaoZhi
+
+XiaoZhi ClientLauncher Version 5
+
+By XiaoZhi
+
 ## 在此致敬 ClientLauncher 作者 Ho3
 注：本项目由小智（XiaoZhi）负责开发、运营和维护，与Ho3大神的ClientLauncher无任何联系！
 
