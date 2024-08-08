@@ -2,7 +2,8 @@
 
 XiaoZhi ClientLauncher Version 5
 
-By XiaoZhi
+### 告知
+该项目已经失效
 
 ## 在此致敬 ClientLauncher 作者 Ho3
 注：本项目由小智（XiaoZhi）负责开发、运营和维护，与Ho3大神的ClientLauncher无任何联系！
@@ -25,14 +26,5 @@ By XiaoZhi
 ## 核心代码：
 
 ![核心代码](img/code.jpg "Code")
-### 想说的话：
-Hi，2022是小智入圈五周年，感谢大家五年来对我的任何形式的支持与帮助。截至至6月11日，我们南宁还有十几天期末考咯，祝大家考试顺利！以下是我的联系方式，聊天、讨论、交朋友、GHS（雾）都行的：
-
-QQ：909045783
-
-微信：xiaozhisoc
-
-小声bb：喜欢这个项目加个星标不过分吧
-
 
 
